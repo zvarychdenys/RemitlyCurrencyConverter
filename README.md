@@ -12,12 +12,12 @@ Projekt składa się z następujących plików:
 ### Wymagania
 Aby uruchomić aplikację, należy mieć zainstalowaną najnowszą wersję Pythona oraz biblioteki wymienione w pliku requirements.txt. W celu zainstalowania bibliotek można użyć polecenia:
 
-![Alt text](requirements.png)
+![Alt text](img/requirements.png)
 
 ### Uruchamianie aplikacji
 Aby uruchomić aplikację, należy przejść do katalogu z projektem i wpisać w terminalu następujące polecenie:
 
-![Alt text](streamlit_run.png)
+![Alt text](img/streamlit_run.png)
 
 Po wykonaniu tego polecenia aplikacja powinna się uruchomić w przeglądarce internetowej. 
 
@@ -27,4 +27,4 @@ Lub możecie przejść pod dany link, aby zobaczyć daną aplikację: [Remitly C
 ### Autorzy
 Projekt został wykonany przez Denysa Zvarycha. Proszę o kontakt w razie pytań lub sugestii dotyczących aplikacji pod adresem e-mail: denys.zvarych@gmail.com.
 
-[Zachęcam również do obejrzenia moich innych projektów!](https://github.com/zvarychdenys/Booking-project)
+[Zachęcam również do obejrzenia moich innych projektów](https://github.com/zvarychdenys/Booking-project)
