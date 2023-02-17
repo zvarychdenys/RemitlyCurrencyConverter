@@ -24,7 +24,7 @@ Po wykonaniu tego polecenia aplikacja powinna się uruchomić w przeglądarce in
 Lub możecie przejść pod dany link, aby zobaczyć daną aplikację: [Remitly Currency Converter](https://zvarychdenys-remitlycurrencyconverte-currencyconverterui-4ampoh.streamlit.app/)
 
 
-### Autorzy
+### Autor
 Projekt został wykonany przez Denysa Zvarycha. Proszę o kontakt w razie pytań lub sugestii dotyczących aplikacji pod adresem e-mail: denys.zvarych@gmail.com.
 
 [Zachęcam również do obejrzenia moich innych projektów](https://github.com/zvarychdenys/Booking-project)
