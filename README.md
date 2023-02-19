@@ -25,6 +25,6 @@ Lub możecie przejść pod dany link, aby zobaczyć daną aplikację: [Remitly C
 
 
 ### Autor
-Projekt został wykonany przez Denysa Zvarycha. Proszę o kontakt w razie pytań lub sugestii dotyczących aplikacji pod adresem e-mail: denys.zvarych@gmail.com.
+Projekt został wykonany przez Denysa Zvarycha. Proszę o kontakt w razie pytań lub sugestii dotyczących aplikacji pod adresem e-mail: denys.zvr@gmail.com
 
 [Zachęcam również do obejrzenia moich innych projektów](https://github.com/zvarychdenys/Booking-project)
